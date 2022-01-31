@@ -1,12 +1,12 @@
-div {
-    padding: 20px; 
-    margin-bottom: 40px;
-  }
+p {
+  margin: 40px; 
+  padding: 20px; 
+}
   
-  .primeiroparagrafo {
-    background-color: #F5F5F5;
-   }
+.paragrafo-normal {
+  background-color: #F5F5F5;
+}
   
-  .segundoparagrafo {
-    background-color: #F0CCE2;
-  }
+.paragrafo-destacado {
+  background-color: #F0CCE2;
+}
